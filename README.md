@@ -1,1 +1,2 @@
 # python-oop-library-proj
+This is the same project I did in java, but I'm trying to do it with python, it's not finished yet so I will be updating it, also I might just try to save the data in a database instead of text files lol
